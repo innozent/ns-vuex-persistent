@@ -1,4 +1,4 @@
-import localStorage from 'nativescript-localstorage';
+import localStorage from '@proplugins/nativescript-localstorage';
 
 const NSVuexPersistent = function (states) {
   return store => {
