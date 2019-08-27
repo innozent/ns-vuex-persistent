@@ -20,6 +20,6 @@
     "persistent"
   ],
   "dependencies": {
-    "nativescript-localstorage": "^2.0.0"
+    "@proplugins/nativescript-localstorage": "^2.2.0"
   }
 }
